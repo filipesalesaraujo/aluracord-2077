@@ -1,8 +1,8 @@
 {
-  "name": "aluracord",
+  "name": "aluracord-2077",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/filipesalesaraujo/aluracord.git",
+  "repository": "https://github.com/filipesalesaraujo/aluracord-2077.git",
   "author": "Filipe Sales Araujo <filipesalesaraujo@gmail.com>",
   "license": "MIT",
   "dependencies": {

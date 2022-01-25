@@ -172,7 +172,7 @@ export default function PaginaInicial() {
           alignItems: "center",
           justifyContent: "center",
           backgroundColor: appConfig.theme.colors.primary[500],
-          backgroundImage: "url(https://raw.githubusercontent.com/filipesalesaraujo/aluracord/main/assets/background.png)",
+          backgroundImage: "url(https://raw.githubusercontent.com/filipesalesaraujo/aluracord/main/assets/background-1920-1080.jpg)",
           backgroundRepeat: "no-repeat",
           backgroundSize: "cover",
         }}
