@@ -50,6 +50,11 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
+"@fontsource/advent-pro@^4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/advent-pro/-/advent-pro-4.5.0.tgz#6bf1d87e68e4ff1cfd343eeeb0b3a42cc890935d"
+  integrity sha512-V4GPRjYZOJztRslOgUaW3z6E2WdjqiUIEX15Y1PVAKIC8IyX7bg6DdsyuR+vvfGkXI/bIGdytQzYBdfI2aNqAg==
+
 "@fortawesome/fontawesome-common-types@^0.2.36":
   version "0.2.36"
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.36.tgz#b44e52db3b6b20523e0c57ef8c42d315532cb903"
