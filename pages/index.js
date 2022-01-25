@@ -172,10 +172,9 @@ export default function PaginaInicial() {
           alignItems: "center",
           justifyContent: "center",
           backgroundColor: appConfig.theme.colors.primary[500],
-          backgroundImage: "url(/assets/background.png)",
+          backgroundImage: "url(https://raw.githubusercontent.com/filipesalesaraujo/aluracord/main/assets/background.png)",
           backgroundRepeat: "no-repeat",
           backgroundSize: "cover",
-          backgroundBlendMode: "multiply",
         }}
       >
         <Box
